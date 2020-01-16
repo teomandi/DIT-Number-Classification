@@ -1,6 +1,10 @@
 logs/
 SVHN_dataset/
+
+tuner*/
+
 .ipynb_checkpoints/
+
 
 *.jpg
 *.png
