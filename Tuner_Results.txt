@@ -1,0 +1,142 @@
+On mnist
+
+ |-Trial ID: 8f7352bf0d7e9966d8768d3d91ed046a
+ |-Score: 0.9896000027656555
+ |-Best step: 0
+ > Hyperparameters:
+ |-conv_1_units: 128
+ |-conv_input_units: 64
+ |-dense_1_units: 64
+ |-dense_input_units: 256
+ |-n_layers: 1
+ 
+-----------------------------------------------------------
+
+  |-Trial ID: efaa09d9ae62890a8bba67c90be9d366
+ |-Score: 0.9898999333381653
+ |-Best step: 0
+ > Hyperparameters:
+ |-conv_1_units: 160
+ |-conv_2_units: 32
+ |-conv_3_units: 32
+ |-conv_4_units: 32
+ |-conv_input_units: 192
+ |-conv_n_layers: 4
+ |-dense_1_units: 64
+ |-dense_2_units: 32
+ |-dense_3_units: 32
+ |-dense_input_units: 96
+ |-dense_n_layers: 3
+
+-----------------------------------------------------------
+
+ |-Trial ID: 77c7674d9655b06f10b1bbbbced84f8d
+ |-Score: 0.9911666512489319
+ |-Best step: 0
+ > Hyperparameters:
+ |-conv_1_units: 192
+ |-conv_2_units: 64
+ |-conv_3_units: 64
+ |-conv_4_units: 64
+ |-conv_input_units: 224
+ |-conv_n_layers: 2
+ |-dense_1_units: 128
+ |-dense_2_units: 160
+ |-dense_3_units: 32
+ |-dense_input_units: 128
+ |-dense_n_layers: 2
+
+-----------------------------------------------------------
+
+|-Trial ID: 40070fe03176ed93a3d7ee9292f3a95c
+ |-Score: 0.9902666211128235
+ |-Best step: 0
+ > Hyperparameters:
+ |-conv_1_units: 192
+ |-conv_2_units: 96
+ |-conv_3_units: 128
+ |-conv_4_units: 96
+ |-conv_input_units: 96
+ |-conv_n_layers: 2
+ |-dense_1_units: 160
+ |-dense_2_units: 224
+ |-dense_3_units: 224
+ |-dense_4_units: 32
+ |-dense_input_units: 64
+ |-dense_n_layers: 4
+
+-----------------------------------------------------------
+
+ |-Trial ID: 1426d26a5dcf8043dcf3bb471f549653
+ |-Score: 0.9914000034332275
+ |-Best step: 0
+ > Hyperparameters:
+ |-conv_1_units: 160
+ |-conv_2_units: 96
+ |-conv_3_units: 160
+ |-conv_4_units: 96
+ |-conv_input_units: 64
+ |-conv_n_layers: 3
+ |-dense_1_units: 160
+ |-dense_2_units: 160
+ |-dense_3_units: 160
+ |-dense_4_units: 160
+ |-dense_input_units: 224
+ |-dense_n_layers: 3
+
+-----------------------------------------------------------
+
+ |-Trial ID: 25a186fa6e284d1c5e01f834d2ac00cf
+ |-Score: 0.9888332486152649
+ |-Best step: 0
+ > Hyperparameters:
+ |-conv_1_units: 32
+ |-conv_2_units: 96
+ |-conv_3_units: 160
+ |-conv_4_units: 96
+ |-conv_input_units: 256
+ |-conv_n_layers: 1
+ |-dense_1_units: 128
+ |-dense_2_units: 128
+ |-dense_3_units: 64
+ |-dense_4_units: 32
+ |-dense_input_units: 192
+ |-dense_n_layers: 3
+
+-----------------------------------------------------------
+
+ |-Trial ID: fa228b076ed63faafce69aa13eb41fda
+ |-Score: 0.9903666377067566
+ |-Best step: 0
+ > Hyperparameters:
+ |-conv_1_units: 64
+ |-conv_2_units: 32
+ |-conv_3_units: 192
+ |-conv_4_units: 192
+ |-conv_input_units: 128
+ |-conv_n_layers: 2
+ |-dense_1_units: 32
+ |-dense_2_units: 256
+ |-dense_3_units: 96
+ |-dense_4_units: 128
+ |-dense_input_units: 192
+ |-dense_n_layers: 2
+
+-----------------------------------------------------------
+
+ |-Trial ID: 934a4b50efed20f5dc979a4e979c1b15
+ |-Score: 0.9903333187103271
+ |-Best step: 0
+ > Hyperparameters:
+ |-conv_1_units: 128
+ |-conv_2_units: 128
+ |-conv_3_units: 224
+ |-conv_4_units: 160
+ |-conv_input_units: 64
+ |-conv_n_layers: 4
+ |-dense_1_units: 160
+ |-dense_2_units: 32
+ |-dense_3_units: 128
+ |-dense_4_units: 192
+ |-dense_input_units: 64
+ |-dense_n_layers: 3
